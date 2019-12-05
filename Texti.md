@@ -11,8 +11,7 @@ Talandi um geymslupláss, PlayStation notaði ekki internal harðan disk. Í sta
 
 playstation notaði upprunalega ekki DualShock fjarstýringar eins og eru í dag heldur í staðinn gerðu þeir fjarstýringar sem voru eki með joystick og notuðu í staðinn fjarstýringar með force-feedback tækni. Sony myndi seinna gefa út sína fyrstu DualShock fjarstýringu árið 1997 sem myndi bæta við þessum möguleika.
 
-#settu þeta í h2
-
+#playstation one
 playstation one sem var í raun playstation original sem var endurskýrð þegar playstation 2 kom út. Þeir gerðu þessa tölvu minni heldur en upprunalega talvan þeirra, og ekki var þessi talva bara minni heldur var hún líka með endurgerðan ramma sem var hringlegri í staðinn fyrir kassan eins og á original playstation. þeir gerðu líka betra user-interface.
 
 
